@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Jima Dube.</h1>
-<h3 align="center">A full stack web developer.</h3>
+<h3 align="center">A front-end web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://scontent.fadd1-1.fna.fbcdn.net/v/t39.30808-6/275371508_1866188320256751_3438403354948968629_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7uQHLqmKrikAX8KUAjo&_nc_ht=scontent.fadd1-1.fna&oh=00_AT80o1X7fCRUIUGtja63-z6YdmlII0EM63AGgqBLduGnMw&oe=624DBEC9">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=megh2507&label=Profile%20views&color=0e75b6&style=flat" alt="megh2507" /> </p> -->
