@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jima Dube</h1>
+![image](https://github.com/user-attachments/assets/a3f957e5-53e3-48cc-aa9d-97e4dbb0aad2)<h1 align="center">Hi 👋, I'm Jima Dube</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jima-j9m1&label=Profile%20views&color=0e75b6&style=flat" alt="jima-j9m1" /> </p>
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Next, React**
 
 - 📫 How to reach me **jimadube100@gmail.com**
+
+- 💻 Portfolio **[Jima](https://jima-nuture.infinityspark.net/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
